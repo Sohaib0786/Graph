@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Floodfill",
+            "request": "launch",
+            "mainClass": "Floodfill",
+            "projectName": "Graph_37a3ce93"
+        },
+        {
+            "type": "java",
+            "name": "Kruskals_algorithm",
+            "request": "launch",
+            "mainClass": "Kruskals_algorithm",
+            "projectName": "Graph_37a3ce93"
+        },
+        {
+            "type": "java",
+            "name": "Disjoint_setDS",
+            "request": "launch",
+            "mainClass": "Disjoint_setDS",
+            "projectName": "Graph_37a3ce93"
+        },
+        {
+            "type": "java",
+            "name": "Connecting_cities",
+            "request": "launch",
+            "mainClass": "Connecting_cities",
+            "projectName": "Graph_37a3ce93"
+        },
+        {
+            "type": "java",
+            "name": "cheapest_flights",
+            "request": "launch",
+            "mainClass": "cheapest_flights",
+            "projectName": "Graph_37a3ce93"
+        },
+        {
+            "type": "java",
+            "name": "Bellman_Ford",
+            "request": "launch",
+            "mainClass": "Bellman_Ford",
+            "projectName": "Graph_37a3ce93"
+        },
+        {
+            "type": "java",
+            "name": "MST",
+            "request": "launch",
+            "mainClass": "MST",
+            "projectName": "Graph_37a3ce93"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "All_path1",
+            "request": "launch",
+            "mainClass": "All_path1",
+            "projectName": "Graph_37a3ce93"
+        },
+        {
+            "type": "java",
+            "name": "All_paths",
+            "request": "launch",
+            "mainClass": "All_paths",
+            "projectName": "Graph_37a3ce93"
+        },
+        {
+            "type": "java",
+            "name": "BFS_graph",
+            "request": "launch",
+            "mainClass": "BFS_graph",
+            "projectName": "Graph_37a3ce93"
+        },
+        {
+            "type": "java",
+            "name": "Bipartite_graph",
+            "request": "launch",
+            "mainClass": "Bipartite_graph",
+            "projectName": "Graph_37a3ce93"
+        },
+        {
+            "type": "java",
+            "name": "Create_agraph",
+            "request": "launch",
+            "mainClass": "Create_agraph",
+            "projectName": "Graph_37a3ce93"
+        },
+        {
+            "type": "java",
+            "name": "Cycle_Detection",
+            "request": "launch",
+            "mainClass": "Cycle_Detection",
+            "projectName": "Graph_37a3ce93"
+        },
+        {
+            "type": "java",
+            "name": "Cycle_detection2",
+            "request": "launch",
+            "mainClass": "Cycle_detection2",
+            "projectName": "Graph_37a3ce93"
+        },
+        {
+            "type": "java",
+            "name": "DFS",
+            "request": "launch",
+            "mainClass": "DFS",
+            "projectName": "Graph_37a3ce93"
+        },
+        {
+            "type": "java",
+            "name": "Dijkstras_Algorithm",
+            "request": "launch",
+            "mainClass": "Dijkstras_Algorithm",
+            "projectName": "Graph_37a3ce93"
+        },
+        {
+            "type": "java",
+            "name": "Topological_Sorting",
+            "request": "launch",
+            "mainClass": "Topological_Sorting",
+            "projectName": "Graph_37a3ce93"
+        },
+        {
+            "type": "java",
+            "name": "Topologicalsort_usingbfs",
+            "request": "launch",
+            "mainClass": "Topologicalsort_usingbfs",
+            "projectName": "Graph_37a3ce93"
+        },
+        {
+            "type": "java",
+            "name": "Topologicalsorting",
+            "request": "launch",
+            "mainClass": "Topologicalsorting",
+            "projectName": "Graph_37a3ce93"
+        },
+        {
+            "type": "java",
+            "name": "connected_componet",
+            "request": "launch",
+            "mainClass": "connected_componet",
+            "projectName": "Graph_37a3ce93"
+        },
+        {
+            "type": "java",
+            "name": "graph_practice",
+            "request": "launch",
+            "mainClass": "graph_practice",
+            "projectName": "Graph_37a3ce93"
+        }
+    ]
+}
